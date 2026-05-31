@@ -12,6 +12,13 @@
 
 ---
 
+---
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/ezmKDs0dgt8/0.jpg)](https://www.youtube.com/watch?v=ezmKDs0dgt8)
+
+---
+
 ## 📌 Tentang Tools
 
 **InstaFollow** dibuat untuk membantu pengguna mengecek data Instagram mereka, terutama untuk melihat perbandingan antara akun yang diikuti dan akun yang mengikuti kembali.
