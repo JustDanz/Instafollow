@@ -7,38 +7,146 @@
 </p>
 
 <p align="center">
-  <b>InstaFollow</b> adalah tools sederhana berbasis GUI untuk membantu melakukan validasi data followers dan following Instagram secara lebih mudah.
+  <b>InstaFollow</b> is a simple GUI-based tool to help users validate Instagram followers and following data more easily.
+</p>
+
+<p align="center">
+  <b>InstaFollow</b> adalah tools sederhana berbasis GUI untuk membantu pengguna memvalidasi data followers dan following Instagram dengan lebih mudah.
 </p>
 
 ---
 
+## Language / Bahasa
+
+* English
+* Indonesia
+
 ---
+
 ## Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/ezmKDs0dgt8/0.jpg)](https://www.youtube.com/watch?v=ezmKDs0dgt8)
 
 ---
 
-## 📌 Tentang Tools
+# English Version
 
-**InstaFollow** dibuat untuk membantu pengguna mengecek data Instagram mereka, terutama untuk melihat perbandingan antara akun yang diikuti dan akun yang mengikuti kembali.
+## About This Tool
 
-Tools ini dikemas dalam bentuk file `.exe`, sehingga dapat langsung dijalankan di Windows tanpa perlu menjalankan script Python secara manual.
+InstaFollow is created to help users check their Instagram data, especially to compare accounts they follow with accounts that follow them back.
 
----
-
-## ✨ Fitur Utama
-
-* ✅ Tampilan GUI yang mudah digunakan
-* ✅ Validasi data followers dan following Instagram
-* ✅ Membantu menemukan akun yang tidak follow back
-* ✅ Membantu membaca data hasil ekspor Instagram
-* ✅ Cocok untuk penggunaan pribadi
-* ✅ Tidak membutuhkan proses instalasi yang rumit
+This tool is packaged as a `.exe` file, so Windows users can run it directly without manually running a Python script.
 
 ---
 
-## 🖥️ Platform
+## Main Features
+
+* Easy-to-use GUI
+* Validate Instagram followers and following data
+* Help find accounts that do not follow you back
+* Read Instagram exported data
+* Suitable for personal use
+* No complicated installation required
+
+---
+
+## Platform
+
+This tool is designed for:
+
+* Windows 10
+* Windows 11
+
+---
+
+## Main File
+
+```bash
+InstaFollow.exe
+```
+
+Run the file to open the application.
+
+---
+
+## How to Use
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the file:
+
+```bash
+InstaFollow.exe
+```
+
+4. Select or input the Instagram data you want to validate.
+5. View the validation result in the application.
+
+---
+
+## How to Get Instagram Data
+
+To use this tool, you need to download your Instagram account data first.
+
+General steps:
+
+1. Open the Instagram application.
+2. Go to Settings.
+3. Open Accounts Center.
+4. Select Your information and permissions.
+5. Select Download your information.
+6. Download your followers and following data.
+7. Use the exported file in InstaFollow.
+
+Note: Instagram menu names may change depending on the application version.
+
+---
+
+## Security and Privacy
+
+This tool is made for personal use. Do not share your Instagram data files with other people because they may contain personal account information and activity.
+
+Recommended:
+
+* Do not upload your Instagram data files to a public repository.
+* Do not share exported personal data.
+* Use this tool only for your own account.
+* Delete the exported data after use if you no longer need it.
+
+---
+
+## Disclaimer
+
+This tool is not an official application from Instagram or Meta.
+
+This tool is created only to help users validate their personal account data for educational and personal purposes.
+
+Users are fully responsible for how they use this tool.
+
+---
+
+# Versi Indonesia
+
+## Tentang Tools
+
+InstaFollow dibuat untuk membantu pengguna mengecek data Instagram mereka, terutama untuk membandingkan akun yang diikuti dengan akun yang mengikuti kembali.
+
+Tools ini dikemas dalam bentuk file `.exe`, sehingga pengguna Windows dapat langsung menjalankannya tanpa perlu menjalankan script Python secara manual.
+
+---
+
+## Fitur Utama
+
+* Tampilan GUI yang mudah digunakan
+* Validasi data followers dan following Instagram
+* Membantu menemukan akun yang tidak follow back
+* Membantu membaca data hasil ekspor Instagram
+* Cocok untuk penggunaan pribadi
+* Tidak membutuhkan proses instalasi yang rumit
+
+---
+
+## Platform
 
 Tools ini dibuat untuk:
 
@@ -47,7 +155,7 @@ Tools ini dibuat untuk:
 
 ---
 
-## 📁 File Utama
+## File Utama
 
 ```bash
 InstaFollow.exe
@@ -57,7 +165,7 @@ Jalankan file tersebut untuk membuka aplikasi.
 
 ---
 
-## 🚀 Cara Menggunakan
+## Cara Menggunakan
 
 1. Download atau clone repository ini.
 2. Buka folder project.
@@ -72,25 +180,25 @@ InstaFollow.exe
 
 ---
 
-## 📦 Cara Mendapatkan Data Instagram
+## Cara Mendapatkan Data Instagram
 
 Agar tools dapat bekerja, kamu perlu mengunduh data akun Instagram terlebih dahulu.
 
 Langkah umum:
 
 1. Buka aplikasi Instagram.
-2. Masuk ke menu **Settings / Pengaturan**.
-3. Pilih **Accounts Center / Pusat Akun**.
-4. Pilih **Your information and permissions**.
-5. Pilih **Download your information**.
+2. Masuk ke menu Pengaturan.
+3. Pilih Pusat Akun.
+4. Pilih Informasi dan izin Anda.
+5. Pilih Unduh informasi Anda.
 6. Download data followers dan following.
 7. Gunakan file hasil ekspor tersebut pada aplikasi InstaFollow.
 
-> Catatan: Tampilan menu Instagram bisa berubah sewaktu-waktu tergantung versi aplikasi.
+Catatan: Tampilan menu Instagram bisa berubah sewaktu-waktu tergantung versi aplikasi.
 
 ---
 
-## 🔐 Keamanan & Privasi
+## Keamanan dan Privasi
 
 Tools ini dibuat untuk penggunaan pribadi. Jangan membagikan file data Instagram kamu ke orang lain karena file tersebut dapat berisi informasi akun dan aktivitas pribadi.
 
@@ -103,7 +211,7 @@ Disarankan:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Tools ini bukan aplikasi resmi dari Instagram atau Meta.
 
@@ -113,9 +221,9 @@ Pengguna bertanggung jawab penuh atas penggunaan tools ini.
 
 ---
 
-## 👨‍💻 Creator
+## Creator
 
-Created by **KaizerZero**
+Created by KaizerZero
 
 <p>
   <a href="https://github.com/JustDanz">
@@ -131,7 +239,9 @@ Created by **KaizerZero**
 
 ---
 
-## ⭐ Support
+## Support
+
+If this tool is useful, please consider giving this repository a star.
 
 Jika tools ini bermanfaat, jangan lupa beri star pada repository ini.
 
@@ -141,6 +251,8 @@ git clone https://github.com/JustDanz/InstaFollow.git
 
 ---
 
-## 📄 Lisensi
+## License / Lisensi
+
+This project can be used for learning and personal use.
 
 Project ini dapat digunakan untuk pembelajaran dan penggunaan pribadi.
